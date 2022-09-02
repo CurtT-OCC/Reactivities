@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KoKB7sX11TPNVVj8WDZdlSKE0pc10zAxkzMLVF1eaKb2TcYzpqs9AAYaXfCuvVJ/8zPc2BccXIIuLXkbmO2z9Q==",
+  "dgSpecHash": "f2kja8nFxUtSCVa7FB8itBGmmXCScGn0skwAU/Hg3PQfmYl/NdhMtjD7/INpa1WXoBsJKZW+EWL5YvrmDFaI2g==",
   "success": true,
-  "projectFilePath": "D:\\Tutorials\\Reactivities\\API\\API.csproj",
+  "projectFilePath": "D:\\Tutorials\\Reactivities\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CToppin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\CToppin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
